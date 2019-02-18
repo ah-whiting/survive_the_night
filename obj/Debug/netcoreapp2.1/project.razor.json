@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Dojo\\C#\\oop\\survive_the_night\\survive_the_night.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

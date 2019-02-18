@@ -1,0 +1,11 @@
+D:\Dojo\C#\oop\survive_the_night\obj\Debug\netcoreapp2.1\survive_the_night.csprojAssemblyReference.cache
+D:\Dojo\C#\oop\survive_the_night\obj\Debug\netcoreapp2.1\survive_the_night.csproj.CoreCompileInputs.cache
+D:\Dojo\C#\oop\survive_the_night\obj\Debug\netcoreapp2.1\survive_the_night.AssemblyInfoInputs.cache
+D:\Dojo\C#\oop\survive_the_night\obj\Debug\netcoreapp2.1\survive_the_night.AssemblyInfo.cs
+D:\Dojo\C#\oop\survive_the_night\bin\Debug\netcoreapp2.1\survive_the_night.deps.json
+D:\Dojo\C#\oop\survive_the_night\bin\Debug\netcoreapp2.1\survive_the_night.runtimeconfig.json
+D:\Dojo\C#\oop\survive_the_night\bin\Debug\netcoreapp2.1\survive_the_night.runtimeconfig.dev.json
+D:\Dojo\C#\oop\survive_the_night\bin\Debug\netcoreapp2.1\survive_the_night.dll
+D:\Dojo\C#\oop\survive_the_night\bin\Debug\netcoreapp2.1\survive_the_night.pdb
+D:\Dojo\C#\oop\survive_the_night\obj\Debug\netcoreapp2.1\survive_the_night.dll
+D:\Dojo\C#\oop\survive_the_night\obj\Debug\netcoreapp2.1\survive_the_night.pdb
